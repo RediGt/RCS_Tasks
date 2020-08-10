@@ -11,6 +11,8 @@ namespace RCS_08._10_Tasks
 
             Bycicle bcc = new Bycicle();
             bcc.Drive();
+
+            car1.Drive();
         }
     }
 }
